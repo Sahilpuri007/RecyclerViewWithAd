@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recycler_margin">5dp</dimen>
+    <dimen name="recycler_padding">4dp</dimen>
+    <dimen name="item_margin">2dp</dimen>
+    <dimen name="item_radius">4dp</dimen>
+    <dimen name="stroke">5dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+</resources>
